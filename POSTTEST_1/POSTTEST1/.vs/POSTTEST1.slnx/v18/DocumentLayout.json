@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KULIAH\\SEMESTER 4\\Praktikum\\PV\\POSTTEST_VIS\\POSTTEST_1\\POSTTEST1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FED84A1-DC3A-4BAA-ACCB-97CFF9367F43}|POSTTEST1\\POSTTEST1.vbproj|c:\\kuliah\\semester 4\\praktikum\\pv\\posttest_vis\\posttest_1\\posttest1\\posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8FED84A1-DC3A-4BAA-ACCB-97CFF9367F43}|POSTTEST1\\POSTTEST1.vbproj|solutionrelative:posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FED84A1-DC3A-4BAA-ACCB-97CFF9367F43}|POSTTEST1\\POSTTEST1.vbproj|c:\\kuliah\\semester 4\\praktikum\\pv\\posttest_vis\\posttest_1\\posttest1\\posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8FED84A1-DC3A-4BAA-ACCB-97CFF9367F43}|POSTTEST1\\POSTTEST1.vbproj|solutionrelative:posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\KULIAH\\SEMESTER 4\\Praktikum\\PV\\POSTTEST_VIS\\POSTTEST_1\\POSTTEST1\\POSTTEST1\\Form1.vb",
+              "RelativeDocumentMoniker": "POSTTEST1\\Form1.vb",
+              "ToolTip": "C:\\KULIAH\\SEMESTER 4\\Praktikum\\PV\\POSTTEST_VIS\\POSTTEST_1\\POSTTEST1\\POSTTEST1\\Form1.vb [Design]",
+              "RelativeToolTip": "POSTTEST1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T05:29:54.434Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\KULIAH\\SEMESTER 4\\Praktikum\\PV\\POSTTEST_VIS\\POSTTEST_1\\POSTTEST1\\POSTTEST1\\Form1.vb",
+              "RelativeDocumentMoniker": "POSTTEST1\\Form1.vb",
+              "ToolTip": "C:\\KULIAH\\SEMESTER 4\\Praktikum\\PV\\POSTTEST_VIS\\POSTTEST_1\\POSTTEST1\\POSTTEST1\\Form1.vb",
+              "RelativeToolTip": "POSTTEST1\\Form1.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T05:31:21.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
