@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbnNEvic+Ho=",
+  "success": true,
+  "projectFilePath": "C:\\KULIAH\\SEMESTER 4\\Praktikum\\PV\\POSTTEST_VIS\\POSTTEST_5\\Posttest 5\\Posttest 5\\Posttest 5.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

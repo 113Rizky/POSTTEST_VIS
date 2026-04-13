@@ -1,0 +1,24 @@
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\Posttest 5.exe
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\Posttest 5.deps.json
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\Posttest 5.runtimeconfig.json
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\Posttest 5.dll
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\Posttest 5.pdb
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.vbproj.AssemblyReference.cache
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest_5.Form1.resources
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest_5.Form2.resources
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest_5.Form3.resources
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.vbproj.GenerateResource.cache
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.AssemblyInfoInputs.cache
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.AssemblyInfo.vb
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.vbproj.CoreCompileInputs.cache
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.sourcelink.json
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.vbproj.Up2Date
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.dll
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\refint\Posttest 5.dll
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.pdb
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\Posttest 5.genruntimeconfig.cache
+C:\KULIAH\SEMESTER 4\Praktikum\PV\POSTTEST_VIS\POSTTEST_5\Posttest 5\Posttest 5\obj\Debug\net10.0-windows\ref\Posttest 5.dll
